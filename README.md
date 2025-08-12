@@ -39,6 +39,6 @@ Maintains its own knowledge base while tapping into the web for real-time inform
 
 ## 📌 System Diagram
 
-![alt text](diagram-export-12-08-2025-06_17_13.png)
+![alt text](diagram.png)
 
 ---
