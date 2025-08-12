@@ -25,7 +25,7 @@ Maintains its own knowledge base while tapping into the web for real-time inform
 ## 🚀 Features
 
 - 🔍 **Search Wikipedia & other websites** for relevant info.
-- 🗄 **Conversation Memory** for offline references.
+- 🗄 **Conversation Memory** for offline references and history.
 - 🖼 **Multiple text & image generation models** to produce rich learning material.
 
 ---
