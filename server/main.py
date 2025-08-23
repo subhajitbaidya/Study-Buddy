@@ -1,5 +1,4 @@
 from fastapi import FastAPI, WebSocket
-from fastapi.responses import HTMLResponse
 from langchain_ollama import ChatOllama
 from pydantic import BaseModel
 from langchain.prompts import PromptTemplate
